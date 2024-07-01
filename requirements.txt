@@ -1,0 +1,13 @@
+tensorflow
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+streamlit
+yfinance
+keras
+pyyaml
+watchdog
+boto3
+s3fs
